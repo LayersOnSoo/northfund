@@ -5,13 +5,13 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-northfund = "GzTAeUQX8Fdzyw99wEYC6iqY3bWKBPVgGftQeHM7D3YB"
+northfund = "EPGcFuarb1sqJPBMMrYwK6sbVArirhbwcpaXXY1816QZ"
 
 [registry]
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "devnet"
+cluster = "https://rpc.testnet.soo.network/rpc"
 wallet = "./id.json"
 
 [scripts]
