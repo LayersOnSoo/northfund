@@ -1,6 +1,6 @@
 # Northfund
 
-NorthFund is a decentralized application (dApp) built on the SOO Network (SOON). It allows students to create funding campaigns for their educational needs and receive donations from supporters worldwide. The platform uses smart contracts to ensure that funds are distributed transparently and securely, without the need for intermediaries.
+The Northfund smart contract on the SOO Network enables secure, transparent and efficient crowdfunding for students. It handles contributions, ensures fund distribution and maintains a decentralized ledger for trustless transactions, empowering both students and supporters.
 
 ## Features
 
