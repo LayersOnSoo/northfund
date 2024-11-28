@@ -19,7 +19,7 @@ NorthFund is built using the following technologies:
 
 ## Deployed Contract
 
-The smart contract for NorthFund is deployed on the SOO Network at the following address:
+The smart contract for NorthFund is deployed on the SOO Network (Testnet) at the following address:
 
 ```
 EPGcFuarb1sqJPBMMrYwK6sbVArirhbwcpaXXY1816QZ
